@@ -39,7 +39,7 @@ const BLOG = {
   CONTACT_INSTAGRAM: process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || 'https://www.instagram.com/khoryz666/', // 您的instagram地址
   CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || 'https://space.bilibili.com/689102951?spm_id_from=333.788.0.0', // B站主页
   CONTACT_YOUTUBE: process.env.NEXT_PUBLIC_CONTACT_YOUTUBE || 'https://www.youtube.com/@khoryz666', // Youtube主页
-  CONTACT_XIAOHONGSHU: process.env.NEXT_PUBLIC_CONTACT_XIAOHONGSHU || 'https://www.xiaohongshu.com/user/profile/66db42e9000000001d030fbd?xsec_token=YB-y8pLIh9MCTlc3cKI25vGq2mw5I-0ROfVKr801jKA48=&xsec_source=app_share&xhsshare=CopyLink&appuid=66db42e9000000001d030fbd&apptime=1740458231&share_id=abfd511967714b9caee1c58a59766f96', // 小红书主页
+  CONTACT_XIAOHONGSHU: process.env.NEXT_PUBLIC_CONTACT_XIAOHONGSHU || '', // 小红书主页
   CONTACT_ZHISHIXINGQIU: process.env.NEXT_PUBLIC_CONTACT_ZHISHIXINGQIU || '', // 知识星球
   CONTACT_WEHCHAT_PUBLIC: process.env.NEXT_PUBLIC_CONTACT_WEHCHAT_PUBLIC || '', // 微信公众号 格式：https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=【xxxxxx】==#wechat_redirect
 
